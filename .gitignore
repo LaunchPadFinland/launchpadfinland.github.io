@@ -1,0 +1,8 @@
+# Internal working files — not part of the published site
+input/
+output/
+briefs/
+PRD.md
+TASKS.md
+
+.DS_Store
