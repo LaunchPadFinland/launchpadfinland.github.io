@@ -3,8 +3,11 @@
 One-page site for **Launch Pad Finland ry**, a non-profit association based in Finland's Kainuu
 Region, active since 2016.
 
-> **Status: draft, under review.** Some social and news links are still placeholders. The page
-> carries a `noindex` tag so it stays out of search results until the content is signed off.
+**Live at <https://launchpadfinland.github.io/>**
+
+> **Status: draft, under review.** The three "In the news" links still point at the publishers'
+> home pages rather than the articles. The page carries a `noindex` tag so it stays out of search
+> results until the content is signed off.
 
 Plain HTML, CSS and a little JavaScript — no framework and no build step.
 
